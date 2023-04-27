@@ -31,6 +31,3 @@
       <img width="30" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg">
     </a>
 </div>
-    
-  ![Snake animation](https://github.com/DanielMiros23/DanielMiros23/blob/output/github-contribution-grid-snake.svg)    
-  
