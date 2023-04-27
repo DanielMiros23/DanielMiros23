@@ -19,7 +19,7 @@
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" height="30" width="40" alt="jquery-icon" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
     <img align="center" height="30" width="40" alt="firebase-icon" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"
-   </div> 
+   </div> <br><br><br>
     <h1 align="center">Social Midias</h1>
     <a href = "mailto: dmcmiros@gmail.com">
       <img width="30" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg">
